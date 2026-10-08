@@ -16,7 +16,7 @@ carries.
 <!-- generated: facts -->
 | Kind | Groups |
 |---|---|
-| `issue` | `locked`, `skills`, `assignees`, `links` |
+| `issue` | `locked`, `skills`, `assignees`, `links`, `command` |
 | `pullRequest` | `assignees`, `links`, `review`, `readiness` |
 <!-- /generated -->
 
